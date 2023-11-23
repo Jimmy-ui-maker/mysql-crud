@@ -1,0 +1,64 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap-icons";
+
+
+
+/* background color for all*/
+body {
+  background-color: rgba(8, 167, 8, 0.178);
+}
+
+
+/* Add Product section*/
+#add-product  a {
+  background-color: rgba(8, 167, 8, 0.178);
+}
+
+#add-product  .card-body {
+  background-color: rgba(8, 167, 8, 0.178);
+}
+
+#add-product input{
+    background-color: inherit;
+}
+
+
+/* Update Product section*/
+#update-product a {
+    background-color: rgba(8, 167, 8, 0.178);
+  }
+  
+  #update-product .card-body {
+    background-color: rgba(8, 167, 8, 0.178);
+  }
+  #update-product input{
+      background-color: inherit;
+  }
+
+  /* Product Card section*/
+  #product-card .card-body {
+    background-color: rgba(8, 167, 8, 0.178);
+  }
+
+  #product-card input {
+    background-color: inherit;
+  }
+
+  /* Product Details section*/
+  #product-details a {
+    background-color: rgba(8, 167, 8, 0.178);
+  }
+  #product-details .card-body {
+    background-color: rgba(8, 167, 8, 0.178);
+  }
+
+
+  /* Product Search section*/
+  #search-bar input {
+    background-color: inherit;
+  }
+
+   /* Product SearchList section*/
+   #search-list .card-body {
+    background-color: rgba(8, 167, 8, 0.178);
+   }
